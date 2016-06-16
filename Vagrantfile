@@ -16,7 +16,7 @@ Vagrant.configure(2) do |config|
   config.vm.network "private_network", ip: "192.168.20.1"
   
   # host name
-  config.vm.hostname = "meanbox1"
+  config.vm.hostname = "manto1"
 
   # Provider-specific configuration so you can fine-tune various
   # backing providers for Vagrant. These expose provider-specific options.
